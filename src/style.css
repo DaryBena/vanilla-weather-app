@@ -14,6 +14,7 @@ ul {
 }
 li {
   list-style: none;
+  text-transform: capitalize;
   margin: 0;
   padding: 0;
   color: #878778;
@@ -37,6 +38,7 @@ li {
   margin-right: 5px;
   height: 64px;
   width: 64px;
+  vertical-align: top;
 }
 .weather-temperature strong {
   color: rgb(33, 33, 33);
